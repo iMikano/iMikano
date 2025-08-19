@@ -10,6 +10,7 @@ Hi guys, I'm **Mikano**, a developer from **Cairo, Egypt**. Contact me if you ha
 
 ## 🧑‍💻 Languages
 ![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=white)
