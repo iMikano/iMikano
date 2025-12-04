@@ -3,7 +3,7 @@
 
 Hi guys, I'm **Mikano**, a developer from **Cairo, Egypt**. Contact me if you have some interesting or fun questions!
 
-- 🛠️ I’m currently working on websites Checkers/Bruteforce, FiveM/MTASA scripts and Discord bots.
+- 🛠️ I’m currently working on Reverse Engineering, Checkers/Bruteforce, FiveM/MTASA scripts and Discord bots.
 - 💬 Ask me about anything.
 - 📫 How to reach me: [mikanojackson@gmail.com](mailto:mikanojackson@gmail.com).
 - 😊 Pronouns: botnet.
